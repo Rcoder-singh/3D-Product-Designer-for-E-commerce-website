@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeans
+* source:	https://sketchfab.com/3d-models/jeans-0a5fb5f1cab44726bdfea1ce928e6198
+* author:	bystudio (https://sketchfab.com/yalmanpourvatan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeans" (https://sketchfab.com/3d-models/jeans-0a5fb5f1cab44726bdfea1ce928e6198) by bystudio (https://sketchfab.com/yalmanpourvatan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

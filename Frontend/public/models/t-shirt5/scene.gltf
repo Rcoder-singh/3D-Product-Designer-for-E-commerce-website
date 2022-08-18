@@ -1,0 +1,239 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        17.98536491394043,
+        167.26394653320313,
+        10.302279472351074
+      ],
+      "min": [
+        -18.68307876586914,
+        78.66930389404297,
+        -14.19562816619873
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20952,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        0.9979740977287292,
+        0.9821009039878845,
+        0.9999702572822571
+      ],
+      "min": [
+        -0.9999648928642273,
+        -0.573559582233429,
+        -0.999988853931427
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        0.1863676905632019,
+        1.6664621829986572
+      ],
+      "min": [
+        -6.103515914901436e-08,
+        0.7374500036239624
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13968,
+      "componentType": 5126,
+      "count": 1746,
+      "max": [
+        0.1863676905632019,
+        1.6664621829986572
+      ],
+      "min": [
+        -6.103515914901436e-08,
+        0.7374500036239624
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9621,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "samsikua (https://sketchfab.com/samsikua)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/dress-modern-t-shirt-green-woman-a6beafb75da24c7aa36c4cd95da7fd4a",
+      "title": "Dress (Modern T- Shirt ;) ) Green Woman"
+    },
+    "generator": "Sketchfab-13.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 38484,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27936,
+      "byteOffset": 38484,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41904,
+      "byteOffset": 66420,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 108324,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "FABRIC_1_FRONT_1309",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.415686,
+          0.603922,
+          0.0901961,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8509950603115437
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "01_FABRIC 1_FRONT_1309_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "1f4ec91c33d848848e2b0d767a0022a2.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0000001192092896,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0000001192092762,
+        1.6292070436460495e-07,
+        0.0,
+        0.0,
+        -1.6292070436460495e-07,
+        1.0000001192092762,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "01"
+    },
+    {
+      "mesh": 0,
+      "name": "01_FABRIC 1_FRONT_1309_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

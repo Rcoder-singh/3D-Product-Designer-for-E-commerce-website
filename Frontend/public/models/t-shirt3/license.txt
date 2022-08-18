@@ -1,0 +1,11 @@
+Model Information:
+* title:	T-shirt
+* source:	https://sketchfab.com/3d-models/t-shirt-7018d8578d6b4ee7af010d26eda1ecc9
+* author:	Nayeem (https://sketchfab.com/nayem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "T-shirt" (https://sketchfab.com/3d-models/t-shirt-7018d8578d6b4ee7af010d26eda1ecc9) by Nayeem (https://sketchfab.com/nayem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeans 01
+* source:	https://sketchfab.com/3d-models/jeans-01-ef33396f3a5c4f4ca6396cc69187db99
+* author:	Olst (https://sketchfab.com/OlegStebenyev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeans 01" (https://sketchfab.com/3d-models/jeans-01-ef33396f3a5c4f4ca6396cc69187db99) by Olst (https://sketchfab.com/OlegStebenyev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

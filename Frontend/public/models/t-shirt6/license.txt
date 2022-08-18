@@ -1,0 +1,11 @@
+Model Information:
+* title:	T-Shirt Mask
+* source:	https://sketchfab.com/3d-models/t-shirt-mask-322eceed80aa4ac0a3f3d5fefbf45984
+* author:	hagiu.alexandra16 (https://sketchfab.com/hagiu.alexandra16)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "T-Shirt Mask" (https://sketchfab.com/3d-models/t-shirt-mask-322eceed80aa4ac0a3f3d5fefbf45984) by hagiu.alexandra16 (https://sketchfab.com/hagiu.alexandra16) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

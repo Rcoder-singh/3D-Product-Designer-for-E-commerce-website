@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motoko Kusanagi (AK117 - Meltdown)
+* source:	https://sketchfab.com/3d-models/motoko-kusanagi-ak117-meltdown-d298cf7f479f4cac818f244d79b5db34
+* author:	Iitchan25 (https://sketchfab.com/iitchan25)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motoko Kusanagi (AK117 - Meltdown)" (https://sketchfab.com/3d-models/motoko-kusanagi-ak117-meltdown-d298cf7f479f4cac818f244d79b5db34) by Iitchan25 (https://sketchfab.com/iitchan25) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
