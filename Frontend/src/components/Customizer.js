@@ -35,7 +35,7 @@ function Model({ ...props }) {
   };
 
   return (
-    <group ref={group} {...props} dispose={null} scale={8}>
+    <group ref={group} {...props} dispose={null} scale={props.scale ? props.scale : 1 }>
       {showModel()}
     </group>
   );
@@ -46,7 +46,6 @@ function Customizer() {
   const [currentUser, setCurrentUser] = useState(
     JSON.parse(sessionStorage.getItem("user"))
   );
-
   const { modelname } = useParams();
 
   const [mesh, setMesh] = useState("#ffffff");
@@ -58,8 +57,13 @@ function Customizer() {
   const [caps, setCaps] = useState("#ffffff");
   const [inner, setInner] = useState("#ffffff");
 
-  // const modelName = `models/${modelname}/scene.gltf`;
-  const modelName = "scene3.glb";
+  const scalesData = {
+    'shoe5' : 0.5
+  }
+
+  const modelName = `http://localhost:5000/${modelname}/scene.gltf`;
+  // const modelName = `http://localhost:5000/scene3.glb`;
+  // const modelName = "public/scene3.glb";
   // const modelName = "models/shoe1/scene.gltf";  // starts as a blank model in zoomed view,has to put every detail
   // const modelName = "models/shoe2/scene.gltf"; // works as sole color changes which is also changing the shoe colour
   // const modelName = "models/shoe3/scene.gltf";   //not working properly
@@ -134,6 +138,7 @@ function Customizer() {
                   castShadow
                 />
                 <Model
+                scale={scalesData[modelname]}
                   customMat={customMat}
                   modelname={modelName}
                   customColors={{
