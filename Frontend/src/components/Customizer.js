@@ -59,7 +59,7 @@ function Customizer() {
   const [inner, setInner] = useState("#ffffff");
 
   // const modelName = `models/${modelname}/scene.gltf`;
-  const modelName = "models/scene.glb";
+  const modelName = "Astronaut.glb";
   // const modelName = "models/shoe1/scene.gltf";  // starts as a blank model in zoomed view,has to put every detail
   // const modelName = "models/shoe2/scene.gltf"; // works as sole color changes which is also changing the shoe colour
   // const modelName = "models/shoe3/scene.gltf";   //not working properly
