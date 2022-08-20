@@ -15,11 +15,7 @@ function App() {
         <Routes>
           <Route element={<Home></Home>} path="homepage" />
           <Route
-            element={
-              <Suspense fallback={null}>
-                <Customizer></Customizer>
-              </Suspense>
-            }
+            element={<Customizer></Customizer>}
             path="customize/:modelname"
           />
           <Route element={<Productlist></Productlist>} path="product" />
